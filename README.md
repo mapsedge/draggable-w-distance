@@ -1,7 +1,7 @@
 # draggable-w-distance
-It is completely incomprehensible to me that "distance" in the office jquery plugin is deprecated, but there it is. For my own project, I created a draggable plugin that implements "distance" and "grid." 
+It is completely incomprehensible to me that "distance" in the office jquery plugin is deprecated, but there it is - or isn't. For my own project, I created a draggable plugin that implements "distance", "grid," and a "stop" event.
 
-Almost everything else - snap, containment, handle, etc - is omitted.
+Everything else - snap, containment, handle, etc - is omitted.
 
 USAGE
 ```
